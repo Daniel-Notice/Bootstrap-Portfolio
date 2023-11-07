@@ -1,0 +1,4 @@
+/* to make the navigation links underline when hovered over. */
+.btn-hover:hover {
+  text-decoration: underline 3px;
+}
