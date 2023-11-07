@@ -2,7 +2,7 @@
 
 ## Description
 
-https://daniel-notice.github.io/Horiseon-Marketing-Website/
+https://daniel-notice.github.io/Bootstrap-Portfolio/
 
 This is my portfolio project. To style this webpage, I have used Bootstrap and partial css. As I complete more projects, more samples of projects will be added to the webpage.
 
